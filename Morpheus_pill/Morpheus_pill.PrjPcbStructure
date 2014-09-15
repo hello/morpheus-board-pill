@@ -1,5 +1,0 @@
-Record=SheetSymbol|SourceDocument=Morpheus_pill.SchDoc|Designator=Bluetooth|SchDesignator=Bluetooth|FileName=Morpheus_MCU.SchDoc|SymbolType=Normal|RawFileName=Morpheus_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Morpheus_pill.SchDoc|Designator=Memory|SchDesignator=Memory|FileName=Morpheus_MEM.SchDoc|SymbolType=Normal|RawFileName=Morpheus_MEM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Morpheus_pill.SchDoc|Designator=Motion|SchDesignator=Motion|FileName=Morpheus_IMU.SchDoc|SymbolType=Normal|RawFileName=Morpheus_IMU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Morpheus_pill.SchDoc|Designator=Power|SchDesignator=Power|FileName=Morpheus_LDO.SchDoc|SymbolType=Normal|RawFileName=Morpheus_LDO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=TopLevelDocument|FileName=Morpheus_pill.SchDoc
