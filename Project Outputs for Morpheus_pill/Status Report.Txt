@@ -1,9 +1,0 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Morpheus_pill.PrjPcb]
-
-
-Files Generated   : 0
-Documents Printed : 0
-
-Finished Output Generation At 8:48:56 AM On 11/19/2014
