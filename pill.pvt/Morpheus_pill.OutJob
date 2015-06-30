@@ -2,15 +2,15 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Dan\Documents\GitHub\pill.pvt\.PDF
+OutputFilePath2=C:\Users\Dan\Documents\GitHub\pill-board\pill.pvt\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\Dan\Documents\GitHub\pill.pvt\
+OutputBasePath2=C:\Users\Dan\Documents\GitHub\pill-board\pill.pvt\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Morpheus_pill_PVT_release_candidate_123014.pdf
+OutputFileName2=Morpheus_pill_MP_release_011215.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -79,7 +79,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Dan\Documents\GitHub\pill.pvt\.PDF
+RelativeOutputPath2=C:\Users\Dan\Documents\GitHub\pill-board\pill.pvt\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
